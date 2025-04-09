@@ -1,9 +1,8 @@
 # This is Git's per-user configuration file.
 [user]
 	signingkey = ~/.ssh/id_ed25519.pub
-# Please adapt and uncomment the following lines:
-#	name = miskoune
-#	email = miskoune@proton.me
+	name = miskoune
+	email = miskoune@proton.me
 [pull]
 	rebase = true
 [commit]
